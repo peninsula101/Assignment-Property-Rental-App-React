@@ -1,10 +1,30 @@
-# Getting Started with Create React App
+# Totality Corp - Frontend Developer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###                               `property rental platform`
 
-## Available Scripts
+# Information
 
-In the project directory, you can run:
+This Application is a Rental Property Booking Site, users can sort based on their preferences (location, cost, Amenities) and book for as many days possible and can checkout.
+
+# 
+I am `Sri Charana Sai Kireeti Thallam Venkata` and i applied for Totality Corp - Frontend Developer
+# 
+
+### To use Filters on the top,
+There are properties with Location 1, Location 2 etc., and with Different Amenities, prices
+1. For Example a user wants properties at location 1 => he enters 'Location 1' and gets properties in Location 1
+
+2. Another example is , a user might filter based on properties with 'pool' he enters => pool and get desired properties.
+
+#
+
+
+Here, Three Routes are available
+1. Home (/)
+2. Cart (/cart)
+3. Checkout (/checkout)
+
+# 
 
 ### `npm start`
 
@@ -13,6 +33,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+#
 
 ### `npm test`
 
@@ -68,3 +90,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:

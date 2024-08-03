@@ -1,0 +1,21 @@
+.property-list {
+  display: flex;
+  justify-content: center; 
+  flex-wrap: wrap;
+}
+
+/* Responsive Design 
+@media (max-width: 768px) {
+  .property-list {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+  }
+}
+
+@media (min-width: 768px) {
+  .property-list {
+    flex-direction: row;
+  }
+}
+*/

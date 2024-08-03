@@ -1,0 +1,21 @@
+.body-code {
+  margin: 10px;
+}
+
+.booking-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+  }
+  
+  .booking-item h3 {
+    margin: 0 0 5px;
+  }
+  
+  .booking-item p {
+    margin: 0 0 10px;
+  }
+  
+  .booking-item button {
+    margin-right: 5px;
+  }
+  

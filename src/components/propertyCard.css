@@ -1,0 +1,37 @@
+.property-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 10px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #d6d6d6;
+    width: 325px;
+  }
+
+  .property-info {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  @media screen and (min-width: 768px) {
+    .property-card {
+      width: 25%;
+    }
+  }
+  
+  .property-card img {
+    max-width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .property-card h3 {
+    margin: 10px 0;
+  }
+  
+  .property-card p {
+    margin: 5px 0;
+  }
+  
